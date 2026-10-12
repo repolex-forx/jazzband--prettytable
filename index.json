@@ -1,0 +1,11 @@
+{
+  "org": "jazzband",
+  "repo": "prettytable",
+  "versions": [
+    {
+      "commit": "5fec60c0fd85530e5299d8c6e39dc030bfd7ce9f",
+      "tag": "",
+      "parsed_at": "2026-10-12T20:46:19.391256+00:00"
+    }
+  ]
+}
