@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/jazzband/prettytable/commit/5fec60c0fd85530e5299d8c6e39dc030bfd7ce9f",
       "git:hexsha": "5fec60c0fd85530e5299d8c6e39dc030bfd7ce9f",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/jazzband/prettytable/commit/32d4cd30f84fba75ddb1b1bcb2f824acd915146a",
